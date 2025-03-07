@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Steven Moscatiello
+jobTitle: Researching and Analyzing the Market Landscape
+location: NY, New York
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/steven-moscatiello.jpg
+  alt: Steven Moscatiello Researching and Analyzing the Market Landscape
+siteUrl: https://steven-moscatiello.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/steven-moscatiello-2a1395101/
     label: Visit
     show: true
   pinterest:
